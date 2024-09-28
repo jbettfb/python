@@ -1,0 +1,41 @@
+1 - crie um codigo que calcule 2 e retorne ele, porem usando funcoes
+2 - cire um codigo que faz extrato de saida e  de entrada, usando funcoes, 1 para entrada, 2 para a saida
+exemplo: 200 reais de entrada, 300 de entrada, e 100 de saida, 
+saida: vc tem 400 reais sobrendo
+
+3- crie uma funcao que transforme o numero para quadrado
+
+4 - crie uma funcao que some 3 numeros e divida ele po 5
+
+5 - crie uma funcao que pergunta ao usuario qual filme ele gosta e mostre isso na tela
+
+6 - crie uma funcao que pergunte o ano q o usuari nasceu e o ano atual e pegue a idade dele
+
+7 - criw uma funcao que pergunte um numero e faça contagem ate ele, exemplo
+numero 4
+1
+2
+3
+4
+
+8 - crie uma funcao que faz a tabuada exemplo tabuada (numero, maximo)
+tabuada (5 , 2)
+faz a tabuada ate o numero do 2 do numero 5
+5x0 = 0
+5x1 = 5
+5x2 = 10
+
+9 - verifique se o numero e positivo ou negativo com funcao positivoOuNegativo(5)
+
+10 - verifique a idade do usuario, se ele e maior de 18 ou nn
+
+11 - faca um codigo que converta real para dolar e dolar para real
+realParaDolar(10)
+dolarParaReal(30)
+
+12 - crie uma funcao que faz a tabuada  INVERTIDO exemplo tabuada (numero, maximo)
+tabuada (5 , 2)
+faz a tabuada ate o numero do 2 do numero 5
+5x2 = 10
+5x1 = 5
+5x0 = 0
